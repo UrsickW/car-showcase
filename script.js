@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: 'BMW M4',
-            image: 'https://images.unsplash.com/photo-1617814076367-b759c7d7e738?w=800',
+            image: 'https://images.unsplash.com/photo-1580274455191-1c62238fa333?w=800',
             description: 'Мощное спортивное купе с отличной управляемостью'
         },
         {
@@ -27,22 +27,22 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: 'Audi RS e-tron GT',
-            image: 'https://images.unsplash.com/photo-1614200187524-dc4b892acf16?w=800',
+            image: 'https://images.unsplash.com/photo-1656468014942-fcdc17c45ff9?w=800',
             description: 'Электрический спортивный седан будущего'
         },
         {
             name: 'Lamborghini Huracán',
-            image: 'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800',
+            image: 'https://images.unsplash.com/photo-1632245889029-e406faaa34cd?w=800',
             description: 'Итальянский суперкар с потрясающим дизайном'
         },
         {
             name: 'Range Rover',
-            image: 'https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800',
+            image: 'https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800',
             description: 'Премиальный внедорожник с роскошным салоном'
         },
         {
             name: 'McLaren 720S',
-            image: 'https://images.unsplash.com/photo-1621135802920-133df287f89c?w=800',
+            image: 'https://images.unsplash.com/photo-1614026480209-cd9934144671?w=800',
             description: 'Британский суперкар с революционной аэродинамикой'
         },
         {
